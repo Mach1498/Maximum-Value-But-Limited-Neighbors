@@ -14,7 +14,6 @@ public class MVBLN {
 		for (int i = 0; i < n; i++) {
 			System.out.print(arr[i] + " ");
 		}
-		
 		System.out.println();
 
 		int[][] M = new int[n][k+1];
