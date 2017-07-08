@@ -4,4 +4,4 @@ You are given an array a[1..n] of positive numbers and an integer k. You have to
 
 To be precise about the definition of adjacency: sequence [0, 1, 0, 1, 0, 1, 1, 1] has two adjacent 1s. Sequence [0, 1, 0, 0, 1, 1, 1, 1] has 3 adjacent 1s. Sequence [1, 0, 1, 1, 0, 1, 1, 1] also has 3 adjacent 1s.
 
-[This question is quoted from Problem 12 of Chapter 6 on p.78 of Analysis & Design of Algorithms by Amrinder Arora.]
+[This question is quoted from Problem 12 of Chapter 6 on p.78 of Analysis & Design of Algorithms (3rd Edition) by Amrinder Arora.]
