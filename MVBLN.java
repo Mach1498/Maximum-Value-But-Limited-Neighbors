@@ -41,6 +41,7 @@ public class MVBLN {
 			System.out.println();
 		}
 		
+		System.out.println("Maximum sum is: " + M[n-1][k]);
 	}
 	
 	private static int[] generateRandomArray() {
